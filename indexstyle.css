@@ -1,0 +1,30 @@
+img {
+    width: 80%;
+    height: auto;
+    margin-left: 80px;
+    float: right;
+}
+
+
+.we{
+    font-family: 'Lemonada', cursive;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Rowdies', cursive;
+
+}
+
+.last{
+    font-family: 'Rowdies', cursive;;
+    color: white;
+    background-color: royalblue;
+    display: inline-block;
+    width: 350px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.last:hover{
+    border-bottom: 1px;
+    background-color: darkgoldenrod;
+
+}
