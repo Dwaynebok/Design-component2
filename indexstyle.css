@@ -1,16 +1,47 @@
-.box{
-    position: relative;
+.Head {
+    font-family: 'Lemonada', cursive;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Rowdies', cursive;;
+    color: midnightblue;
 }
-.box .text{
-    position: absolute;
-    z-index: 999;
-    margin: 0 auto;
-    left: 0;
-    right: 0;
+
+body{
+    background-image: url("kelli-tungay-2LJ4rqK2qfU-unsplash.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    font-family: 'Lemonada', cursive;
+    font-family: 'Red Rose', cursive;
+    font-family: 'Roboto Slab', serif;
     text-align: center;
-    top: 40%; /* Adjust this value to move the positioned div up and down */
-    background: rgba(0, 0, 0, 0.8);
-    font-family: Arial,sans-serif;
-    color: #fff;
-    width: 60%; /* Set the width of the positioned div */
+
+
+
+
+
+}
+
+.last{
+    font-size: 20px;
+    font-family: serif;
+    border-radius: 50px;
+    background: goldenrod;
+    padding:1px;
+    height:60px;
+    width: 350px;
+    text-align: center;
+
+}
+
+.last:hover{
+    color: midnightblue;
+}
+
+.content{
+    text-align: justify;
+    padding: 5px;
+    width:185px;
+    height: 200px;
+    text-align: center;
+
 }
